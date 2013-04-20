@@ -1,0 +1,8 @@
+Inspired by http://learn.adafruit.com/adalight-diy-ambient-tv-lighting/overview.
+
+Calculate the average color on the screen and serve it as a static html page that keeps reload every second, syncing the color.
+
+TODO
+-process and make the color brighter
+-support multiple light source, able to configure position of the light source
+-standalone android apps perhaps
